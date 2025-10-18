@@ -1,0 +1,26 @@
+data_source,tillage_depth_cm,soil_moisture_percent,travel_speed_kmh,implement_width_m,fuel_consumption_lph,data_type,distance_covered_km,tractor_hp,tractor_hp_min,tractor_hp_max,tractor_gear,trial_id,location,soil_type,tractor_model,field_size_ha
+ASABE Standards 2022,20,18.0,5.2,2.4,18.2,research_study,,,,,L3,,,,,
+ASABE Standards 2022,25,22.0,6.0,3.0,22.5,research_study,,,,,H1,,,,,
+ASABE Standards 2022,30,28.0,7.1,3.6,26.8,research_study,,,,,H2,,,,,
+ASABE Standards 2022,22,20.0,5.8,2.4,19.8,research_study,,,,,L3,,,,,
+ASABE Standards 2022,28,25.0,6.5,3.0,24.2,research_study,,,,,H1,,,,,
+ASABE Standards 2022,18,16.0,4.8,1.8,16.5,research_study,,,,,L2,,,,,
+ASABE Standards 2022,32,30.0,7.3,3.6,28.4,research_study,,,,,H2,,,,,
+ASABE Standards 2022,24,21.0,6.2,2.4,21.3,research_study,,,,,H1,,,,,
+USDA ARS Tillage Study 2021,15,12.0,4.5,1.8,15.8,research_study,,,,,L2,,,,,
+USDA ARS Tillage Study 2021,20,18.0,5.5,2.4,19.2,research_study,,,,,L3,,,,,
+USDA ARS Tillage Study 2021,25,24.0,6.5,3.0,23.1,research_study,,,,,H1,,,,,
+USDA ARS Tillage Study 2021,30,29.0,7.5,3.6,27.4,research_study,,,,,H2,,,,,
+USDA ARS Tillage Study 2021,35,33.0,5.0,2.4,25.3,research_study,,,,,L3,,,,,
+USDA ARS Tillage Study 2021,18,15.0,6.0,3.0,17.6,research_study,,,,,H1,,,,,
+USDA ARS Tillage Study 2021,22,20.0,7.0,3.6,24.8,research_study,,,,,H2,,,,,
+USDA ARS Tillage Study 2021,28,26.0,5.8,2.4,22.1,research_study,,,,,L3,,,,,
+University of Nebraska-Lincoln,25,22.0,6.2,3.0,21.8,university_research,2.5,120.0,,,H1,,,,,
+Purdue University,28,26.0,5.8,3.6,25.3,university_research,3.2,150.0,,,L3,,,,,
+Texas A&M AgriLife,22,18.0,6.8,2.4,19.2,university_research,4.1,100.0,,,H1,,,,,
+John Deere 2610 Disc Plow,25,,6.5,3.0,22.4,manufacturer_specs,,,90.0,140.0,H1,,,,,
+Case IH 3700 Disc,28,,6.0,3.6,26.8,manufacturer_specs,,,120.0,180.0,H1,,,,,
+Massey Ferguson MF 2200 Disc,22,,7.0,2.4,19.7,manufacturer_specs,,,80.0,120.0,H2,,,,,
+Field Trial: Illinois,25,24.0,6.2,3.0,22.1,field_trial,,,,,,FT-2023-001,Illinois,silt_loam,John Deere 6130M,25.0
+Field Trial: Iowa,28,28.0,5.8,3.6,26.3,field_trial,,,,,,FT-2023-002,Iowa,clay_loam,Case IH Magnum 340,32.0
+Field Trial: Nebraska,22,18.0,6.8,2.4,18.9,field_trial,,,,,,FT-2023-003,Nebraska,sandy_loam,Massey Ferguson 8710,18.0
